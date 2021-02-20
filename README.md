@@ -15,7 +15,7 @@
 
 ## Flows
 
-### Deposit Eth
+### Deposit BNB
 
 - https://bscscan.com/token/0x77dfb1dafc92c5df29996f5528ba1829941cd3bb
 
